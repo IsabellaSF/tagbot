@@ -56,4 +56,4 @@ The final product of this project includes:
 
 ## 👩‍💻 Author
 
-* **Isabella Souza Freitas**
+* ** João Grando, Isabella Souza Freitas**
