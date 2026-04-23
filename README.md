@@ -1,19 +1,18 @@
 # Tagbot - Robotic Control App
 
-This is the official repository for the Tagbot project, a mobile robotic control application. The app is developed in Flutter and allows communication with and control of a robot (or other device) via Bluetooth Classic (SPP).
+This is my work, when i was a member of the Robotics nucleo for especialization(NERo). As a member of NERo, i made part of the Tagbot project- a mobile robotic control application that allows communication with and control of a robot (or other device) via Bluetooth Classic (SPP). In this project, i was responsable for project and programing the entire front-end of the aplication using figma and VScode as a development platform and the flutter language to made it.
 
-The purpose of this repository is to maintain all of the project's source code and associated documentation.
+Esse foi o trabalho que desenvolvi quando era membro do Nucleo de Especialização em Robôtica (NERo). No NERo, fiz parte do projeto TagBot, uma aplicação mobile para controle que permite a comunicação do controle com o robô via Bluetooth. Nesse projeto, fui responsável por projetar e programar a front-end do aplicativo usando o figma e o VScode como principais ferramentas e a linguagem Flutter para desenvolver o aplicativo.
 
-## 🚀 Key Features
+The purpose of this repository is to maintain my part of the project as a project of my portifolio.
+o propósito desse repositorio é manter o meu trabalho no NERo como um projeto do meu portifolio.
 
-As defined in the project scope, the application includes the following features:
-
-* **Connection Management:** Scans for, pairs with, and connects to Bluetooth Classic devices.
-* **Joystick Control:** A virtual joystick interface for precise movement control.
-* **Gyroscope Control:** Allows controlling the robot using the smartphone's gyroscope sensors.
-* **Button Command Sending:** Pre-defined buttons to send specific commands to the robot.
-* **Feedback Collection:** Integration with the Wiredash tool for feedback and bug reporting.
-* **About/Credits Screen:** A dedicated screen with information about the project and the developer.
+## 🚀 about my work in the project
+ I made this project by parts and it consist in: 
+     * define all the canvas of the application
+     * figure how to relate them
+     * desing the wareframe in figma platform
+     * merge all figma design into a real application 
 
 ## 🛠️ Technologies Used
 
@@ -56,4 +55,4 @@ The final product of this project includes:
 
 ## 👩‍💻 Author
 
-* ** João Grando, Isabella Souza Freitas**
+* **Isabella Souza Freitas**
