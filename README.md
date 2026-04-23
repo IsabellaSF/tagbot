@@ -9,7 +9,6 @@ o propósito desse repositorio é manter o meu trabalho no NERo como um projeto 
 
 ## 🚀 about my work in the project
  I made this project by parts and it consist in: 
-
  
      * define all the canvas of the application
      * figure how to relate them
